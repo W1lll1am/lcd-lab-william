@@ -57,7 +57,7 @@ void reactionGame() {
   lcd.print("Your time:");
   lcd.setCursor(0, 1);         // Move to the second row
   lcd.print(reactionTime);     // Show the reaction time in milliseconds
-  lcd.print(" ms");
+  lcd.print("googoogaga");
 
 
   delay(3000);  // Keep the result displayed for 3 seconds before restarting
